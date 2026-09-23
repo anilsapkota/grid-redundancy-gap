@@ -1,0 +1,15 @@
+[project]
+name = "grid-redundancy-gap"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "duckdb>=1.5.5",
+    "geopandas>=1.1.4",
+    "osmnx>=2.1.1",
+    "pandas>=3.0.5",
+    "pyproj>=3.7.2",
+    "requests>=2.34.2",
+    "shapely>=2.1.2",
+]
